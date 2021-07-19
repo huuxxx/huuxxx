@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @huuxxx
+- 👀 I’m interested in Typescript | React | .NET
+- 🌱 I’m currently working on my CMS project
+- 📫 Reach me hux@hux-dev.com
