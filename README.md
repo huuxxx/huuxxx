@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @huuxxx
+- 😁 This is my personal projects account
 - 👀 I’m interested in Typescript | React | .NET | Unity
-- 🌱 I’m currently working on my FPS game
+- 🌱 I’m currently working on my FPS game!
 - 📫 Reach me hux@hux-dev.com
