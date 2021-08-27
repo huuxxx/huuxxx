@@ -2,5 +2,5 @@
 - 😁 This is my personal projects account
 - 🎓 I’m interested in Typescript | React | .NET | Unity
 - 🔧 I’m currently working on my FPS game! 
-- 🤖 Read my blog hux-dev.com/Blogs
+- 🤖 View my blog hux-dev.com/Blogs
 - 📫 Reach me hux@hux-dev.com
