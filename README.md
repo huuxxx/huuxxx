@@ -7,4 +7,4 @@
 
 All my code is free for use. You can find more content over on my blog 😄
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huuxxx&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=huuxxx)](https://git.io/streak-stats)
