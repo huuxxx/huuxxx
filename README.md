@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hux
 - 😁 This is my personal projects account
-- 🎓 I’m interested in React | C# .NET | Unity
+- 🎓 I’m interested in C# .NET | Unity | React
 - 🔧 I’m currently working on my game [EXON](https://store.steampowered.com/app/3356980/EXON/)! 
 - 🤖 View my portfolio [hux-dev.com](https://hux-dev.com)
 - 📫 Reach me hux@hux-dev.com
